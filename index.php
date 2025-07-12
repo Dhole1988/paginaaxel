@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home - PAGINA DE PRUEBA PARA INFORMATICA VI</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Basic-icons.css">
+</head>
+
+<body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="77">
+    <nav class="navbar navbar-expand-md fixed-top" id="mainNav">
+        <div class="container"><a class="navbar-brand" href="#">PAGINA DE PRUEBA PARA INFORMATICA VI</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navbarResponsive" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-bars"></i></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item nav-link"><a class="nav-link active" href="#about">acerca de nosotros</a></li>
+                    <li class="nav-item nav-link"><a class="nav-link" href="#download">tegnologia utilizada</a></li>
+                    <li class="nav-item nav-link"><a class="nav-link" href="#contact">inicio de sesion&nbsp;</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="masthead" style="background-image: url('assets/img/como-funciona-gps-android-forma-mejorar-precision.webp');">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <h1 class="brand-heading">s.t.p</h1>
+                        <p class="intro-text">SISTEMA DE TRACKING PERSONAL</p><a class="btn btn-link btn-circle" role="button" href="#about"><i class="fa fa-angle-double-down"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="text-center content-section" id="about" style="color: rgb(251,246,246);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto" style="background: url(&quot;assets/img/Captura%20de%20pantalla%202025-07-02%20215331.png&quot;) center / cover no-repeat;">
+                    <h2 style="color: var(--bs-body-color);">acerca de nosotros</h2>
+                    <p class="fs-3" style="color: var(--bs-body-color);">Misión</p>
+                    <p style="color: var(--bs-body-color);">proporcionar soluciones innovadoras de rastreo personal y de bienes mediante&nbsp; tecnología de vanguardia, garantizando seguridad, eficiencia y confiabilidad en tiempo real. Nos comprometemos a ofrecer sistemas adaptables que mejoren la proteccion de individuos y la gestión de activos, respaldados por la calidad y experiencia de DHOLE industries en sensores y dispositivos IoT.</p>
+                    <p class="fs-3" style="color: var(--bs-body-color);">Vision</p>
+                    <p style="color: var(--bs-body-color);">Ser lideres en el mercado de tracking inteligente, integrando tecnologías&nbsp; como LoRaWAN Y microcontroladores ESP32 para revolucionar la seguridad y la logística. aspiramos a expandirnos globalmente, siendo reconocidos por nuestra precisión, innovación y capacidad de personalización, siempre alineados con los avances tecnológicos de DHOLE Industries.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="text-center text-dark download-section content-section" id="download" style="background-image: url('assets/img/lorawan-foto.jpg');">
+        <div class="container">
+            <div class="col-lg-8 mx-auto">
+                <h1>la tecnologia LORA.</h1>
+                <p class="text-center text-dark">LoRWAN ha emergido como una fuerza transformadora en el ecosistema<br>del internet de las cosas (IoT), al ofrecer una solución única para conectar<br>dispositivos a grandes distancias con un consumo energético mínimo. Esta<br>innovación ha catalizado avances significativos en ámbitos como las ciudades<br>inteligentes, la agricultura de precisión, la logística y el monitoreo<br>ambiental. Comprender los elementos que condicionan el alcance de LoRaWAN<br>resulta crucial para la planificación eficaz, la expansión estratégica y la<br>optimización del rendimiento de estas redes, constituyendo un tema de gran<br>relevancia técnica y comercial.</p>
+            </div>
+        </div>
+    </section>
+    <section class="text-center content-section" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2>LOG IN</h2>
+                    <section class="position-relative py-4 py-xl-5">
+                        <div class="container">
+                            <div class="row d-flex justify-content-center">
+                                <div class="col-md-6 col-xl-4">
+                                    <div class="card mb-5">
+                                        <div class="card-body d-flex flex-column align-items-center">
+                                            <div class="bs-icon-xl bs-icon-circle bs-icon-primary bs-icon my-4"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-person">
+                                                    <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664z"></path>
+                                                </svg></div>
+                                            <form class="text-center" method="post">
+                                                <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email"></div>
+                                                <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Password"></div>
+                                                <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit" name="boton">LOGIN</button></div>
+                                                <p class="text-muted">Forgot your password?</p>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <p></p>
+                    <ul class="list-inline banner-social-buttons">
+                        <li class="list-inline-item">&nbsp;</li>
+                        <li class="list-inline-item">&nbsp;</li>
+                        <li class="list-inline-item">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div></div>
+    <footer>
+        <div class="container text-center">
+            <p>Copyright © DHOLE Industries 2025</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/grayscale.js"></script>
+
+    <?php
+    include("registrar.php");
+    ?>
+</body>
+
+</html>
